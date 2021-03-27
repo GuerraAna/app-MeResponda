@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeResponda</string>
+    <string name="digite_text">Digite o texto</string>
+    <string name="enviar">Enviar</string>
+</resources>
