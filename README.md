@@ -5,6 +5,7 @@ Assista o vídeo a seguir:
 [![Vídeo Toy Storie](http://img.youtube.com/vi/mFOracFClBg/0.jpg)](http://www.youtube.com/watch?v=mFOracFClBg "Vídeo Toy Storie")
 
 
+
 ## Introdução:
 
 . Você já quis estar mais próximo de brinquedos antigos que hoje em dia estão difíceis de achar?
@@ -12,6 +13,7 @@ Assista o vídeo a seguir:
 Pois aqui está a sua chance de desfrutar de um dos brinquedos mais famosos de 1995, a Magic Ball. 
 
 . Este Repositório representa mais uma de minhas conquistas como desenvolvedora de apps. A partir dela eu pude desenvolver novas práticas e novos conhecimentos relacionados ao Android Studio, ao Kotlin e ao Design. 
+
 
 
 
@@ -25,6 +27,7 @@ A partir de uma cena da longa-metragem Toy Storie ,eu desenvolvi esse app! O meu
 
 
 
+
 ## Este Projeto tem como base: :books:
 
 . Kotlin;
@@ -35,11 +38,13 @@ A partir de uma cena da longa-metragem Toy Storie ,eu desenvolvi esse app! O meu
 
 
 
+
 ## Interface do app: :calling:
 
 
 
 ![MeRespondaImage](https://user-images.githubusercontent.com/78937585/112713566-87e32580-8eb4-11eb-9493-a3d08bb54027.png)
+
 
 
 
