@@ -42,7 +42,7 @@ A partir de uma cena da longa-metragem Toy Storie ,eu desenvolvi esse app! O meu
 
 
 
-![MeRespondaImage](C:\Users\anagu\OneDrive\Imagens\MeRespondaImage.png)
+![MeRespondaImage](https://user-images.githubusercontent.com/78937585/112713566-87e32580-8eb4-11eb-9493-a3d08bb54027.png)
 
 
 
