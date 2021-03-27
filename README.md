@@ -1,5 +1,7 @@
 # Aplicativo Me Responda: "Me faça uma pergunta?" :question::smiley:
 
+Assista o vídeo a seguir:
+
 [![Vídeo Toy Storie](http://img.youtube.com/vi/mFOracFClBg/0.jpg)](http://www.youtube.com/watch?v=mFOracFClBg "Vídeo Toy Storie")
 
 
